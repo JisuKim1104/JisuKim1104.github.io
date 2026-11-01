@@ -1,17 +1,14 @@
+
 ---
 layout: page
-title: "Smart Glasses for Accessible Clothing Shopping"
-description: "Accessible clothing shopping experiences with smart glasses"
+title: "Smart Glasses for Accessibility"
+description: "Exploring smart glasses to support blind and low-vision people."
 category: research
 importance: 1
 permalink: /work/accessible-shopping/
 related_publications: false
 ---
 
-**Research · CHI 2027 Full Paper (Under Review)**
+**Research · Under Review**
 
-Exploring how smart glasses can support clothing shopping experiences for blind and low-vision people.
-
-**Topics:** Accessibility · Smart Glasses · Human–AI Interaction
-
-*Additional details will be shared after the review process.*
+I conducted research exploring how smart glasses can support blind and low-vision people.
