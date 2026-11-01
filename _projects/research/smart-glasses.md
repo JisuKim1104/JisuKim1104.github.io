@@ -1,8 +1,7 @@
-
 ---
 layout: page
 title: "Smart Glasses for Accessibility"
-description: "Exploring smart glasses to support blind and low-vision people."
+description: "Exploring how smart glasses can support blind and low-vision people. · Under Review"
 category: research
 importance: 1
 permalink: /work/accessible-shopping/

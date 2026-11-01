@@ -36,6 +36,14 @@ nav_order: 2
   {% assign work_categories = 'research,research-engineering,undergraduate' | split: ',' %}
   {% for category in work_categories %}
     {% assign work_items = site.projects | where: 'category', category | sort: 'importance' %}
+    {% assign glasses_found = false %}
+    {% if category == 'research' %}
+      {% for project in work_items %}
+        {% if project.permalink == '/work/accessible-shopping/' %}
+          {% assign glasses_found = true %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
     <section class="work-panel" id="panel-{{ category }}" role="tabpanel" aria-labelledby="tab-{{ category }}" {% unless forloop.first %}hidden{% endunless %}>
       {% if category == 'research' %}
         <p class="work-panel-intro">Research on accessibility, human–AI interaction, and XR.</p>
@@ -45,6 +53,17 @@ nav_order: 2
         <p class="work-panel-intro">Selected projects from my undergraduate studies.</p>
       {% endif %}
       <ul class="work-list">
+        {% if category == 'research' and glasses_found == false %}
+          <li class="work-list-item">
+            <a class="work-list-link" href="{{ '/work/accessible-shopping/' | relative_url }}">
+              <span>
+                <span class="work-list-title">Smart Glasses for Accessibility</span>
+                <span class="work-list-description">Exploring how smart glasses can support blind and low-vision people. · Under Review</span>
+              </span>
+              <span class="work-list-arrow" aria-hidden="true">↗</span>
+            </a>
+          </li>
+        {% endif %}
         {% for project in work_items %}
           <li class="work-list-item">
             <a class="work-list-link" href="{{ project.url | relative_url }}">
