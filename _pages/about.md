@@ -22,7 +22,7 @@ My research interests lie at the intersection of **Accessibility, Artificial Int
 
 I believe technology should expand what people can do, rather than take over the experiences, decisions, or enjoyable parts of a process that they want to engage in themselves. **Preserving user agency** is central to how I approach human–AI interaction and accessible technology design.
 
-My current research focuses on accessible interactive technologies, particularly smart glasses and XR experiences for blind and low-vision people.
+My current research focuses particularly on smart glasses and XR experiences for blind and low-vision people.
 
 ### Research Interests
 
@@ -30,7 +30,7 @@ Accessibility · Human–AI Interaction · AR/XR · Interactive Systems
 
 ### Contact
 
-If you'd like to get in touch, feel free to email me at **[jisu.kim1104@gmail.com](mailto:jisu.kim1104@gmail.com)**. You can also reach me at [rlawltn0214@ewha.ac.kr](mailto:rlawltn0214@ewha.ac.kr).
+If you'd like to get in touch, feel free to email me at **[jisu.kim1104@gmail.com](mailto:jisu.kim1104@gmail.com)**.
 
 [LinkedIn](https://www.linkedin.com/in/jisukim1104/) · [ORCID](https://orcid.org/0009-0000-1559-8779)
 

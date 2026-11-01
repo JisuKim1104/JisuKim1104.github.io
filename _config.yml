@@ -7,13 +7,12 @@ first_name: Jisu
 middle_name: 
 last_name: Kim
 contact_note: >
-  For research collaborations, please contact me via LinkedIn.
+  If you would like to get in touch, please email jisu.kim1104@gmail.com.
 description: >
-  Research portfolio of Jisu Kim, focusing on human-computer interaction, accessibility, human-AI interaction, and extended reality.
+  Research portfolio of Jisu Kim exploring accessibility, AI, and AR/XR through user-centered interactive technologies that preserve autonomy.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: human-computer interaction, accessibility, human-AI interaction, XR, HCI, research portfolio
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔬 # research portfolio favicon
@@ -72,7 +71,7 @@ al_folio:
     allow_remote_loader: false
   features:
     cv:
-      enabled: true
+      enabled: false
     distill:
       enabled: true
   compat:
@@ -99,7 +98,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -136,8 +135,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Research Notes
-blog_description: Notes on human-computer interaction and accessibility research
+blog_name: Blog
+blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -190,15 +189,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
