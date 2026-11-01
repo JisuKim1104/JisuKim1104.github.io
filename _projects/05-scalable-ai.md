@@ -4,7 +4,7 @@ title: "Scalable AI Experimental Platform"
 description: "Labvanced, Firebase, and OpenAI integration for psychology experiments"
 category: research-engineering
 importance: 2
-permalink: /projects/scalable-ai/
+permalink: /work/scalable-ai/
 related_publications: false
 ---
 

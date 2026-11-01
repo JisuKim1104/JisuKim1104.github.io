@@ -1,16 +1,19 @@
 ---
 layout: page
-title: projects
-description: Research engineering, interaction prototypes, and undergraduate projects.
-permalink: /projects/
+title: work
+description: Research and interactive systems in accessibility, human–AI interaction, and XR.
+permalink: /work/
 nav: true
-nav_order: 3
-display_categories: [research-engineering, undergraduate]
+nav_order: 2
+display_categories: [research, research-engineering, undergraduate]
 horizontal: false
 ---
+
 <div class="projects">
 {% for category in page.display_categories %}
-  {% if category == 'research-engineering' %}
+  {% if category == 'research' %}
+    <h2 class="category">Research</h2>
+  {% elsif category == 'research-engineering' %}
     <h2 class="category">Research Engineering</h2>
   {% elsif category == 'undergraduate' %}
     <h2 class="category">Undergraduate Projects</h2>

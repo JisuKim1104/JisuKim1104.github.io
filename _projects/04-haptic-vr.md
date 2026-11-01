@@ -4,7 +4,7 @@ title: "Haptic-Enhanced VR Navigation"
 description: "VR spatial exploration with vibrotactile feedback for blind and low-vision users"
 category: research-engineering
 importance: 1
-permalink: /projects/haptic-vr/
+permalink: /work/haptic-vr/
 related_publications: false
 ---
 

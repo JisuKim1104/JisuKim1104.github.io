@@ -4,7 +4,7 @@ title: "NAVIHA — AR Indoor Navigation"
 description: "AR wayfinding for Ewha ECC"
 category: undergraduate
 importance: 2
-permalink: /projects/naviha/
+permalink: /work/naviha/
 related_publications: false
 ---
 

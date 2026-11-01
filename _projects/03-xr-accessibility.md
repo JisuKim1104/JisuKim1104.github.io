@@ -4,7 +4,7 @@ title: "XR Accessibility Research"
 description: "Ongoing XR accessibility research and manuscript preparation"
 category: research
 importance: 3
-permalink: /projects/xr-accessibility/
+permalink: /work/xr-accessibility/
 related_publications: false
 ---
 

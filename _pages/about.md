@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Human-Computer Interaction · Accessibility · Human-AI Interaction · XR
+subtitle: Accessibility · Human–AI Interaction · AR/XR
 profile:
   align: right
   image: prof_pic.jpg
@@ -15,20 +15,23 @@ announcements:
 latest_posts:
   enabled: false
 ---
-I am **Jisu Kim**, an HCI researcher interested in **accessibility**, **human–AI interaction**, and **extended reality (XR)**. My work explores how emerging interactive technologies can support people's agency and make everyday experiences more accessible.
 
-My recent research investigates AI-assisted clothing shopping for blind and low-vision people using smart glasses. I have also studied how task complexity and self-efficacy shape people's experiences with AI agents and large language models, and I am preparing a new XR accessibility study.
+Hi! I'm **Jisu Kim**, a Master's student in the **HCI Lab at Ewha Womans University**, advised by **Prof. Uran Oh**.
 
-Beyond conducting user research, I develop interactive prototypes and technical infrastructure for experimental studies, using technologies including Unity, Firebase, and AI APIs.
+My research interests lie at the intersection of **Accessibility, Artificial Intelligence, and Augmented and Extended Reality (AR/XR)**. I explore how interactive technologies can empower people while preserving their autonomy.
 
-### Research interests
+I believe technology should expand what people can do, rather than take over the experiences, decisions, or enjoyable parts of a process that they want to engage in themselves. **Preserving user agency** is central to how I approach human–AI interaction and accessible technology design.
 
-Accessibility · Human–AI Interaction · Wearable Computing · XR Interaction · Research Prototyping
+My current research focuses on accessible interactive technologies, particularly smart glasses and XR experiences for blind and low-vision people.
 
-### Selected research
+### Research Interests
 
-- [Accessible Clothing Shopping with AI Smart Glasses](/research/#accessible-clothing-shopping-with-ai-smart-glasses) — CHI 2027 full paper under review
-- [AI Agents and LLMs for Translation Tasks](/research/#ai-agents-vs-llms-for-translation-tasks) — CHI 2026 poster accepted
-- [XR Accessibility Research](/research/#xr-accessibility-research) — ongoing manuscript preparation
+Accessibility · Human–AI Interaction · AR/XR · Interactive Systems
 
-[Explore my research](/research/) · [Selected projects](/projects/) · [Experience](/experience/)
+### Contact
+
+If you'd like to get in touch, feel free to email me at **[jisu.kim1104@gmail.com](mailto:jisu.kim1104@gmail.com)**. You can also reach me at [rlawltn0214@ewha.ac.kr](mailto:rlawltn0214@ewha.ac.kr).
+
+[LinkedIn](https://www.linkedin.com/in/jisukim1104/) · [ORCID](https://orcid.org/0009-0000-1559-8779)
+
+[Work]({{ '/work/' | relative_url }}) · [Experience]({{ '/experience/' | relative_url }})

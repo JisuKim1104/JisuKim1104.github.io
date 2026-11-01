@@ -4,7 +4,7 @@ title: "FingerSpell"
 description: "Sign-language educational game for upper elementary school students"
 category: undergraduate
 importance: 1
-permalink: /projects/fingerspell/
+permalink: /work/fingerspell/
 related_publications: false
 ---
 

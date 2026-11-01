@@ -4,7 +4,7 @@ title: "AI Character Consistency System"
 description: "Unity and Firebase-based AI interaction prototype"
 category: research-engineering
 importance: 3
-permalink: /projects/ai-character/
+permalink: /work/ai-character/
 related_publications: false
 ---
 

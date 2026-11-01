@@ -4,7 +4,7 @@ title: experience
 permalink: /experience/
 description: Academic community, leadership, mentorship, and service.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 ## XREAL — XR Academic Society
